@@ -1,0 +1,20 @@
+F:\Raccoon's programs\проги\count\count\bin\Debug\count.exe
+F:\Raccoon's programs\проги\count\count\bin\Debug\count.pdb
+F:\Raccoon's programs\проги\count\count\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Raccoon's programs\проги\count\count\obj\x86\Debug\count.Form1.resources
+F:\Raccoon's programs\проги\count\count\obj\x86\Debug\count.Properties.Resources.resources
+F:\Raccoon's programs\проги\count\count\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Raccoon's programs\проги\count\count\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Raccoon's programs\проги\count\count\obj\x86\Debug\count.exe
+F:\Raccoon's programs\проги\count\count\obj\x86\Debug\count.pdb
+D:\Important\ОИПИ\count\count\obj\x86\Debug\count.exe
+D:\Important\ОИПИ\count\count\obj\x86\Debug\count.pdb
+D:\Important\ОИПИ\count\count\bin\Debug\count.exe
+D:\Important\ОИПИ\count\count\bin\Debug\count.pdb
+D:\Important\ОИПИ\count\count\obj\x86\Debug\count.csprojResolveAssemblyReference.cache
+D:\Important\ОИПИ\count\count\obj\x86\Debug\count.Form1.resources
+D:\Important\ОИПИ\count\count\obj\x86\Debug\count.Properties.Resources.resources
+D:\Important\ОИПИ\count\count\obj\x86\Debug\count.csproj.GenerateResource.Cache
+F:\Raccoon's programs\проги\anchor_points\count\obj\x86\Debug\count.exe
+F:\Raccoon's programs\проги\anchor_points\count\obj\x86\Debug\count.pdb
+F:\Raccoon's programs\проги\anchor_points\count\bin\Debug\anchor_points.exe.config
